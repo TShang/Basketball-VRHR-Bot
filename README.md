@@ -3,10 +3,14 @@ Bot/Script that plays Basket FRVR in in facebook messenger
 
 # Python packages used
 numpy
+
 OpenCV
+
 PIL
-pymouse
-GTK
+
+pymouse 
+
+GTK 
 
 As well install package dependencies when prompted.
 
